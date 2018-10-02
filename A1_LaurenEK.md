@@ -55,17 +55,17 @@ The results in my chosen zipcode validate my expectations on average KTBU use (o
 #### Q9 Any other reactions to completing Pass One? What was especially challenging or surprising in the workflow? How might you expand on this analysis if you had more time?
 
 Q9 Response Here (<250 words)
-The Pivot table was the most challenging part of Pass One.
+The Pivot table was the most challenging part of Pass One, but the ArcMap steps were less demanding. I would expand the analysis to include data on socioeconomic factors such as income, race, and household size.
 
 
 #### Q10 How would you compare the experienced or apparent work involved, as well as the usefulness of the outcome, of Pass One vs. Pass Two? How would you rate the difficulty of this assignment?
 
 Q10 Response Here (<250 words)
-
+Pass One was useful to go through. Pass Two was very difficult for me to understand what I was doing in R. I would rate the difficulty of this assignment as 10/10. 
 
 
 #### Q11 In total, how long did Assignment 1 take?
-This Assignment probably took around 10 hours or more. It took a lot of time to download all of the software. ArcMap also kept crashing, requiring me to go into the lab to complete the mapping components.
+This Assignment probably took around 12 hours or more. It took a LOT of time to download all of the software. ArcMap also kept crashing, requiring me to go into the lab to complete the mapping components. Also, it took a long time (~3 hours) for me to understand the link I was fixing in RStudio.
 
 Part 1: Tech Setup: _ minutes
 
