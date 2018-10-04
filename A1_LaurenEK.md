@@ -76,3 +76,11 @@ Part 3: Readings: _ minutes
 Part 4: Practice Data Dive: Pass 1: _ minutes
 
 Part 4: Practice Data Dive: Pass 2: _ minutes
+
+Peer Review: 
+I found similar answers for the first three questions. The presentation of the equations used in Q4 in the answer workflow was helpful to validate the final number arrived at and that is something that I will include going forward. 
+Lauren determined the average kBTU differently than I did, determining the monthly average and accounting for constumers that consumed both gas and electricity. Her answer suggests that I calculated my avekBTU incorrectly.  
+Lauren answered the question regarding the benefits of seasonal analysis insightfully and suggested the practical applications of such analyses (PG&E using such analyses to forecast demand). It might also suggest the optimal mix of electricity and gas customers. 
+For Question 8, I think the reason neighboring areas used comparable energy amounts was because the analysis only considered residential customers. 
+I think it is very impressive that Lauren attempted Pass 2, which I did not, and I agree that the pivot table was also the most challenging part. 
+-Monica M
